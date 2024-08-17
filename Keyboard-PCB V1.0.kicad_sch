@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "29871a3e-e34f-4a87-bd4c-2c752db2b6a4")
 	(paper "A4")
+	(title_block
+		(title "Mechanical Keyboard PCB V1.0")
+		(date "2024-08-16")
+	)
 	(lib_symbols
 		(symbol "Device:C_Small"
 			(pin_numbers hide)
@@ -4362,7 +4366,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 136.525 83.185 0)
 			(effects
 				(font
@@ -4656,7 +4660,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 59.69 85.09 0)
 			(effects
 				(font
@@ -4723,7 +4727,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:SKQG-1155865"
 			(at 52.705 48.26 0)
 			(effects
 				(font
@@ -4925,7 +4929,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 67.945 167.64 0)
 			(effects
 				(font
@@ -4994,7 +4998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 154.305 64.135 0)
 			(effects
 				(font
@@ -5261,7 +5265,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 69.215 87.63 0)
 			(effects
 				(font
@@ -5329,7 +5333,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 136.525 64.135 0)
 			(effects
 				(font
@@ -5751,7 +5755,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 154.305 83.185 0)
 			(effects
 				(font
@@ -6299,7 +6303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 65.405 43.815 0)
 			(effects
 				(font
@@ -6431,7 +6435,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 118.745 113.03 0)
 			(effects
 				(font
